@@ -1,0 +1,29 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "json-server",
+    "dateExported": "2023-09-29T03:49:05.889Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "4165199e-6ebc-4037-a622-41f97afb174a",
+            "colId": "80b1d655-8b4e-4f42-8ea7-2cb1077e6da2",
+            "containerId": "",
+            "name": "todos",
+            "url": "http://localhost:4200/todos?id=1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-09-22T02:09:19.676Z",
+            "modified": "2023-09-29T03:48:44.567Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1",
+                    "isPath": false
+                }
+            ],
+            "tests": []
+        }
+    ]
+}
